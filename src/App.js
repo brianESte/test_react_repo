@@ -11,11 +11,10 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="https://brianESte.github.io/"
           rel="noopener noreferrer"
         >
-          Learn React
+          Root index
         </a>
       </header>
     </div>
